@@ -1,0 +1,4 @@
+name = "DotFunctions"
+uuid = "83a88440-9340-11e9-3a38-2f54cb66a56e"
+authors = ["Alexander Knemeyer <alknemeyer@gmail.com>"]
+version = "0.1.0"
